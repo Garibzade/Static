@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\Static\bin\Debug\net6.0\Static.exe
+C:\Users\Qarib\Desktop\c#\Static\bin\Debug\net6.0\Static.deps.json
+C:\Users\Qarib\Desktop\c#\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\Static\bin\Debug\net6.0\Static.dll
+C:\Users\Qarib\Desktop\c#\Static\bin\Debug\net6.0\Static.pdb
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.dll
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.pdb
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\Static\obj\Debug\net6.0\ref\Static.dll
